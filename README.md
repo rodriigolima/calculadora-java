@@ -2,4 +2,4 @@
 
 Calculadora com interface gráfica utilizando a biblioteca swing;
 
-![image](https://user-images.githubusercontent.com/23271567/186193776-7b9fac33-6033-4789-98e1-4ab9d702f473.png)
+![image](https://user-images.githubusercontent.com/23271567/186196204-62bfdb3c-5f73-4a7e-a9bd-4bf928794f56.png)
